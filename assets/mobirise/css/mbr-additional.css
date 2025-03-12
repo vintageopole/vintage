@@ -1638,7 +1638,7 @@ a {
   max-width: 800px;
 }
 .cid-uF8Zm2cKog .mbr-section-title {
-  color: #232323;
+  color: #f7f7f7;
 }
 .cid-uF4FjVcekl {
   padding-top: 6rem;
@@ -1741,7 +1741,7 @@ a {
 .cid-uF4FjVdD2i {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: transparent;
+  background-image: url("../../../assets/images/skad2-510x266.jpg");
 }
 .cid-uF4FjVdD2i .mbr-fallback-image.disabled {
   display: none;
@@ -1914,7 +1914,7 @@ a {
 .cid-uF4FjVe9wk {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-uF4FjVe9wk .mbr-fallback-image.disabled {
   display: none;
@@ -1928,33 +1928,12 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uF4FjVe9wk .bg-facebook {
-  background: #1778f2;
+.cid-uF4FjVe9wk .bg-youtube {
+  background: #ff0000;
   color: #ffffff;
 }
-.cid-uF4FjVe9wk .bg-facebook:hover {
-  background: #0b60cb;
-}
-.cid-uF4FjVe9wk .bg-twitter {
-  background: #1da1f2;
-  color: #ffffff;
-}
-.cid-uF4FjVe9wk .bg-twitter:hover {
-  background: #0c85d0;
-}
-.cid-uF4FjVe9wk .bg-instagram {
-  background: #f00075;
-  color: #ffffff;
-}
-.cid-uF4FjVe9wk .bg-instagram:hover {
-  background: #bd005c;
-}
-.cid-uF4FjVe9wk .bg-tiktok {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-uF4FjVe9wk .bg-tiktok:hover {
-  background: #000000;
+.cid-uF4FjVe9wk .bg-youtube:hover {
+  background: #cc0000;
 }
 .cid-uF4FjVe9wk .iconfont-wrapper {
   display: inline-block;
@@ -1970,30 +1949,6 @@ a {
 .cid-uF4FjVe9wk [class*=" socicon-"]:before {
   line-height: 55px;
   padding: 0.6rem;
-}
-.cid-uF4FjVekTk {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: transparent;
-}
-.cid-uF4FjVekTk .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-uF4FjVekTk form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-uF4FjVekTk form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-uF4FjVekTk form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
-.cid-uF4FjVekTk .content-head {
-  max-width: 800px;
 }
 .cid-uF4FjVeagi {
   padding-top: 5rem;
